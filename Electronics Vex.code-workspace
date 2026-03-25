@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Sensor Vex",
+			"path": "../PlatformIO/Projects/Sensor Vex"
+		}
+	],
+	"settings": {}
+}
